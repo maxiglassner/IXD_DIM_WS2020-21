@@ -3,4 +3,4 @@ IXD Repository of Maximilian Glassner
 
 # SWOT analysis
 
-![Alt-Text](//swot.jpg "optionaler Titel") 
+![Alt-Text](/swot.jpg "optionaler Titel") 
