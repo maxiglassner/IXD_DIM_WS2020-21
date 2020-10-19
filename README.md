@@ -3,3 +3,4 @@ IXD Repository of Maximilian Glassner
 
 ## Exercise 00 
 [SWOT ANALYSIS](/swot.jpg) 
+[Task#01](/task01.pdf)
