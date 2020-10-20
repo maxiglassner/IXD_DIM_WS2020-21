@@ -8,4 +8,4 @@ IXD Repository of Maximilian Glassner
 [The Wallet Project](/task01.pdf)
 
 ## Exercise 02
-[low-fid GUI](/gui.jpeg) <br />
+[Low-fid GUI](/gui.jpeg) <br />
