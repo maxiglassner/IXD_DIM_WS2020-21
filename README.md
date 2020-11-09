@@ -13,5 +13,6 @@ IXD Repository of Maximilian Glassner
 
 ## Exercise 03
 [Low-Fid GUI- Ideas](/gui2.jpg) <br />
+<a href="https://xd.adobe.com/view/2a35c897-11da-4cd1-8589-12529171c68f-7f66/" target="_blank">example</a>
 [High-fid GUI-IPad](https://xd.adobe.com/view/2a35c897-11da-4cd1-8589-12529171c68f-7f66/) <br />
 [High-fid GUI-AppleWatch](https://xd.adobe.com/view/01439293-c2c7-43f3-9799-acd02f449097-5410/)<br />
