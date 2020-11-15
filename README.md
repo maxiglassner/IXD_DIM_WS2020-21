@@ -22,5 +22,5 @@ Links mit Rechtsklick in einen neuen Tab öffnen! <br />
 [Angepasstes Desgin an Google Material](https://xd.adobe.com/view/d5ea987f-5a21-47aa-8af7-1cbdf5db0c44-80b9/)
 
 ## Exercise 05
-[Flowchart VUI](/VUI.png =250x) <br />
-[Storyboard VUI](/storyboard_vui.jpg =250x) <br />
+[Flowchart VUI](/VUI.png /=250x) <br />
+[Storyboard VUI](/storyboard_vui.jpg /=250x) <br />
