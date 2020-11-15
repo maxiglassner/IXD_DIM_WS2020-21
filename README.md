@@ -23,4 +23,4 @@ Links mit Rechtsklick in einen neuen Tab öffnen! <br />
 
 ## Exercise 05
 [Flowchart VUI](/VUI.png /=250x) <br />
-[Storyboard VUI](/storyboard_vui.jpg){:height="36px" width="36px"} <br />
+[Storyboard VUI]<img src="storyboard_vui.jpg" alt="drawing" width="200"/>
