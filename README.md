@@ -23,4 +23,4 @@ Links mit Rechtsklick in einen neuen Tab öffnen! <br />
 
 ## Exercise 05
 [Flowchart VUI](/VUI.png) <br />
-[Storyboard VUI] (/storyboard_vui.jpg) <br />
+[Storyboard VUI](/storyboard_vui.jpg) <br />
