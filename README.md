@@ -28,3 +28,6 @@ Links mit Rechtsklick in einen neuen Tab öffnen! <br />
 ## Exercise 06
 [Documentation](/task6.md)
 
+## Exercise 07
+[Presentation](/ABtest.pdf)
+
