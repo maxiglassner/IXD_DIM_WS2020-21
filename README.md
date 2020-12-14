@@ -29,5 +29,5 @@ Links mit Rechtsklick in einen neuen Tab öffnen! <br />
 [Documentation](/task6.md)
 
 ## Exercise 07
-[Presentation](/ABtest.pdf)
+[Präsentation](/ABtest.pdf)
 
