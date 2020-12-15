@@ -26,4 +26,4 @@ abspielen zu lassen. <br />
 ### 
 Es soll also ein Filmplakat durch den Einsatz des ESP mit  Hilfe von Soundtrack oder Zitate erweitert werden um die Nutzer mehr an dem Film zu begeistern oder auch generell das interesse zu Wecken. Da die Umsetzung auch recht günstig ist soll das Konzept auch so gestaltet werden, dass es universell mit mehreren Plakaten umsetzbar ist, sonst müsste jedes dieser Plakate individuell hergestellt werden müssten (zB. Im Rahmen in denen die Plakate immer ausgestellt sind) oder um den spielerischen Aspekt einzuarbeiten generell beim Berühren des Rahmen etwas abgespielt wird. <br />
 ## Konzeptzeichnung eines interaktiven Filmplakat (Low-fid Prototype)
-[Bild 1]: /IAfilmplakat-lowfid.jpg
+![Bild 1]: /IAfilmplakat-lowfid.jpg
