@@ -24,5 +24,5 @@ Alle die an einem solchen Plakat vorbeilaufen und damit interagieren wollen.
 Durch den ESP werden Berührungen des Nutzers erkannt, verarbeitet und schließlich weiter gegeben um ein Audiodatei
 abspielen zu lassen. <br />
 ### 
-Es soll also ein Filmplakat durch den Einsatz des ESP mit  Hilfe von Soundtrack oder Zitate erweitert werden um die Nutzer mehr an dem Film zu begeistern oder auch generell das interesse zu Wecken. Da die Umsetzung auch recht günstig ist soll das Konzept auch so gestaltet werden, dass es universell mit mehreren Plakaten umsetzbar ist (zB. Im Rahmen in denen die Plakate immer ausgestellt sind. <br />
+Es soll also ein Filmplakat durch den Einsatz des ESP mit  Hilfe von Soundtrack oder Zitate erweitert werden um die Nutzer mehr an dem Film zu begeistern oder auch generell das interesse zu Wecken. Da die Umsetzung auch recht günstig ist soll das Konzept auch so gestaltet werden, dass es universell mit mehreren Plakaten umsetzbar ist, sonst müsste jedes dieser Plakate individuell hergestellt werden müssten (zB. Im Rahmen in denen die Plakate immer ausgestellt sind). <br />
 ## Konzeptzeichnung eines interaktiven Filmplakat
