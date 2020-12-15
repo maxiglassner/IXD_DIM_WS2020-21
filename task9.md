@@ -29,5 +29,5 @@ Es soll also ein Filmplakat durch den Einsatz des ESP mit  Hilfe von Soundtrack 
 ![Bild 1](/IAfilmplakat-lowfid.jpg) <br />
 Option 1 ist hier die Interaktion des einfachen Berühren des Rahmens und Option 2 die Berührung eines Buttons. Welche Option am Ende umgesetzt wird, wird sich im Verlauf der Umsetzung entscheiden.
 ## Einrichten des ESPs
-Das Einrichten hat nach einigen Herumprobieren und Treiber Problemen letztendlich funktioniert und der ESP ist bereit programmiert zu werden.
+Das Einrichten hat nach einigem Herumprobieren und Treiber Problemen letztendlich funktioniert und der ESP ist bereit programmiert zu werden.
 
