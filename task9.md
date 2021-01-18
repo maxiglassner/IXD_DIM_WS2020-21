@@ -1,4 +1,4 @@
-# Konzept für interaktiven (Papier-)Prototypen
+# Interaktives Filmplakat 
 ## Erste Schritte
 Am Anfang habe ich mir verschiedene Möglichkeiten des ESPs angeschaut, um herrauszufinden was technisch überhaupt
 realisierbar ist. Als nächstes habe ich mir überlegt welche Elemente ich gerne in meinem Konzept verwenden wollen würde.
