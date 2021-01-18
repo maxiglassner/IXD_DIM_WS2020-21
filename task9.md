@@ -41,9 +41,7 @@ Das Programmieren hat im großen und ganzen sehr gut funktioniert. Gerade für d
 ![Bild 3](/code.jpg) 
 <br/ > <br/ >
 ### Demovideo
-<br /> <br />
- <iframe width="1020" height="630" src="https://youtu.be/uVNHdyR8F8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br /> <br />
+https://youtu.be/uVNHdyR8F8g
 ## Ausblick
 Das System funktioniert sehr stabil. Der ESP und die Kabel lassen sich auch einfach hinter Beispielsweise Deko verstecken. Diese Anwedungsmöglichkeit ist nicht nur billig sondern auch extrem vielseitig. Einziges Problem ist, dass ein Computer benötigt wird auf dem das Processing Script läuft. Allerdings weiß ich aus meiner Zeit aus dem Kino, dass jedes Kino mehrerer solche Rechner vor Ort hat und man diese dafür werden könnte. Es wäre auch kein Problem mehrere solcher Plakate über ein Rechner laufen zu lassen. Der Vorteil daran ist aber, dass man nicht limitiert in Qualität und Länge der Audiofiles. Durch die Kabel lässt sich nahezu jedes Plakat interaktiv machen. Mit genau diesem Grundkonzept könnte man auch für Grundschulen oder Kindergärten sehr einfach nahezu alles zu einer interaktiven Lerneinheit machen.
 Grundsätzliche kann man das auch alles mit LED und weiteren Gimmiks ausstatten und es so noch interessanter machen (z.B. Die Augen eines Drachen aufleuchten lassen und gleichzeitig diese Brüllen lassen). 
