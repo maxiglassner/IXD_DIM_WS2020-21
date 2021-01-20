@@ -10,7 +10,6 @@ IXD Repository of Maximilian Glassner
 [Storyboard VUI](/storyboard_vui.jpg) <br />
 [Documentation](/task6.md)
 ## Erstes eigenes Graphical User Interface
-[Low-fid GUI](/gui.jpeg) <br />
 [Low-Fid GUI- Ideas](/gui2.jpg) <br />
 [High-fid GUI-WebVersion](https://xd.adobe.com/view/342483f4-6632-402c-ad3a-43804f2489fb-6177/) <br />
 [High-fid GUI-AppleWatch](https://xd.adobe.com/view/01439293-c2c7-43f3-9799-acd02f449097-5410/)<br />
