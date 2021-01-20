@@ -1,4 +1,4 @@
-# IXD_DIM_WS2020-21
+# TdM Maxi Glassner
 IXD Repository of Maximilian Glassner
 
 ## Exercise 09
